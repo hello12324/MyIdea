@@ -28,10 +28,11 @@
 - The test result is negative (normal).
 - Symptoms are the same as before.
 
-# ```2023-1-2 Unknown time (around 4:00?)```, I went to the hospital to check for coronavirus and influenza virus. After a while, the result came out that it was coronavirus (positive) (abnormal), and then Got a shot for the coronavirus and felt much better when I got home.
+# ```2023-1-2 Unknown time (around 4:00?)```,I went to the hospital to check for coronavirus and flu virus. After a while, the result came out that it was coronavirus (positive) (abnormal), and then I got a shot of coronavirus, took medicine, and felt much better after going home.
 ## (time unknown) symptoms (incomplete)
 - Temperature (time: around 4:50PM) (36.7 degrees).
 - Symptoms are the same as before (feeling relieved after receiving anti-coronavirus injections).
+- The test result is positive (not normal).
 
 > Now the situation is calmer and more stable.
 > The above is my coronavirus "experience report".
