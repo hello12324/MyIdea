@@ -13,8 +13,8 @@ If the program is just a simple judgment, it may be due to the defect of the und
 |'p'          |'passworld'  | 102ms       | Flase         |
 |'a'          |'passworld'  | 93ms        | Flase         |
 |'pa'         |'passworld'  | 101ms       | False         |
-|By analogy, if the first character and the first character of the password want to be at the same time |
-|The time is different because of the calibration password. 						|
+|By analogy, if the first character is the same as the first character of the password, it will |
+|The time is different because of the calibration password.                                     |
 
 # Repair method
 Calculate whether the lengths of the two values are the same, if not, return False (0), if the lengths are the same, perform XOR operation, and return True (1) when the two values are the same, the code is implemented in the AntiTimmingAttack sub-project of the MyProgramProject project.

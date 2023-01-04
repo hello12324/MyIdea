@@ -12,7 +12,7 @@ Timming Attacks(TA?)中文为计时攻击,是一种密码攻击手段,通过基�
 |'p'     |'passworld'  |   102ms  |  Flase   |
 |'a'     |'passworld'  |   93ms   |  Flase   |
 |'pa'    |'passworld'  |   101ms  |  False   |
-|以此类推,如果头字符与密码的头字符想同时就会 |
+|以此类推,如果头字符与密码的头字符相同时就会 |
 |因为校准密码导致时间不一样.                 |
 
 
