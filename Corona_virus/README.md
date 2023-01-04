@@ -1,5 +1,5 @@
 [英文可能不正确,可以看中文](./README_CN.md)
-# illustrate
+# Record
 
 # ```2023-1-2 6:50AM```, I woke up in the morning and found that my body had symptoms of a cold, and I was very uncomfortable. After a while, I took a bath and felt a little better.
 ## (6:50) Symptoms (incomplete)
