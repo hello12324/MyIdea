@@ -8,6 +8,7 @@
 - Throat is a little sore but no problem.
 - My back hurts very much.
 - Physical weakness.
+- The skin of the body feels burning pain (the skin hurts like being scratched by a knife).
 
 ```2023-1-2 8:10AM```, Around, I explained the situation to the teacher, the teacher thinks it was caused by my exercise (playing badminton) yesterday or a small cold.
 ## (8:10) Symptoms (incomplete)
@@ -31,4 +32,5 @@
 - Temperature (time: around 4:50PM) (36.7 degrees).
 - Symptoms are the same as before (feeling relieved after receiving anti-coronavirus injections).
 
+> Now the situation is calmer and more stable.
 > The above is my coronavirus "experience report".
